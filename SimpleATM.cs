@@ -109,7 +109,7 @@ void balance(cardHolder currentUser)
  cardHolders.Add(new cardHolder("7504245", 1998, "Carson","Yarborough", 69,420));
   cardHolders.Add(new cardHolder("1234567", 8991, "John","Jacob", 230.31));
  cardHolders.Add(new cardHolder("6789012", 1994, "Orion","Smith", 546.17));
- cardHolders.Add(new cardHolder("9114010", 4991, "Robert","Beckwith", 4670.44));
+ cardHolders.Add(new cardHolder("9114010", 4991, "Robert","Beckwith", 6670.44));
  cardHolders.Add(new cardHolder("6664200", 2020, "Emma","Carolton", 11.30));
 
 // prompt user
